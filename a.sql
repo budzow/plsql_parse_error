@@ -1,1 +1,1 @@
-delte from tab;
+delete from tab;
